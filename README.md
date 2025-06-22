@@ -6,7 +6,7 @@
 
 ### ⚠️ Informações Importantes
 
-* **Jogue aqui:** [https://editor.p5js.org/isaacfateixeira/sketches/XoWXArrBu](https://editor.p5js.org/isaacfateixeira/sketches/XoWXArrBu)
+* **Jogue aqui:** [https://editor.p5js.org/isaacfateixeira/sketches/V06FqT8HH](https://editor.p5js.org/isaacfateixeira/sketches/V06FqT8HH)
 * **Atenção:** O jogo não é compatível com celulares. Recomenda-se jogar em um computador.
 
 ---
